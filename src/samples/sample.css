@@ -1,0 +1,12 @@
+.greeting-text {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fffacd;
+    border-radius: 25%;
+    font-size: 55px;
+    font-family: 'Segoe Print', sans-serif;
+    color: #ff0000;
+}
